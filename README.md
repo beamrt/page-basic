@@ -1,0 +1,1 @@
+Page básica desenvolvido com HTML e CSS, com media query applied.
