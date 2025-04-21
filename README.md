@@ -4,7 +4,7 @@
 <a><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></a>          
 <a><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /></a>
 </div>
-<p>Criei essa page básica de um blog fictício sobre tecnologia, nele contém algumas dicas e "máterias" sobre esse mundo.</p>
+<p>Criei essa page básica de um blog fictício sobre tecnologia, nele contém algumas dicas e "máterias" sobre esse mundo da tecnologia.</p>
 
 <p> 🚀 Demonstração: <a href "https://github.com/beamrt/page-basic/deployments/github-pages">Aqui</a></p>
 
