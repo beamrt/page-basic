@@ -6,7 +6,7 @@
 </div>
 <p>Criei essa page básica de um blog fictício sobre tecnologia, nele contém algumas dicas e "máterias" sobre esse mundo da tecnologia.</p>
 
-<p> 🚀 Demonstração: <a href "https://beamrt.github.io/page-basic">Aqui</a></p>
+<p> 🚀 Demonstração: <a href "https://beamrt.github.io/page-basic/">Aqui</a></p>
 
 :hammer: Funcionalidades:
 - `Media query aplicada`: Design responsivo e melhor experiência do usuário em todos os dispositivos.
